@@ -8,7 +8,7 @@ A simple React-based chat application that alternates between predefined static 
 ## Technologies Used
   - React.js: Frontend JavaScript library for building user interfaces.
   - CSS: For styling the app.
-  - JavaScript (ES6): Used to handle the quiz logic and state management.
+  - JavaScript (ES6): Used to handle the quiz logic and state management. 
   - HTML5: Basic structure of the web pages.
 ## Screenshots
 <div align="center">
