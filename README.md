@@ -20,7 +20,7 @@ A simple React-based chat application that alternates between predefined static 
 ### Clone the Project
 ``` bash
 git clone https://github.com/sharlinaik/Chat-App.git
-cd Quiz-App
+cd Chat-App
 ```
 
 
